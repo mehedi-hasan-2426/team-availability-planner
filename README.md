@@ -161,3 +161,11 @@ This Python version replicates the core functionality of the original C# Windows
 
 - Python 3.8 or newer
 - PySide6
+
+## Dependency updates
+
+[Renovate](renovate.json) watches supported dependency manifests once its
+[GitHub App](https://github.com/apps/renovate) is installed for this repository.
+Routine updates are grouped weekly, with a three-day release-age delay;
+vulnerability PRs bypass both restrictions. All updates require manual review and
+passing checks; major upgrades first require Dependency Dashboard approval.
